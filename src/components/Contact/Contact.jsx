@@ -50,21 +50,21 @@ export default function Contact() {
               <span className="contact-details__icon">
                 <Mail size={17} />
               </span>
-              <span>hello@gstsite.in</span>
+              <span>startuptaxindia@gmail.com</span>
             </a>
 
-            <a href="tel:+919800012345">
+            <a href="tel:+9192892 49010">
               <span className="contact-details__icon">
                 <Phone size={17} />
               </span>
-              <span>+91 98000 12345</span>
+              <span>+91 92892 49010</span>
             </a>
 
             <div className="contact-details__location">
               <span className="contact-details__icon">
                 <MapPin size={17} />
               </span>
-              <span>Bengaluru · Mumbai · Delhi NCR</span>
+              <span>Sector 63 Nioda </span>
             </div>
           </div>
 
